@@ -6,7 +6,7 @@
     "network-file": "network.gz",
     "max-game-thinking-time-seconds": 2,
     "engine-start-location": ".",
-    "engine-command": "./ssh.bat",
+    "engine-command": "./leelaz --gtp --lagbuffer 0 --weights network.gz --threads 2",
     "print-comms": false
   },
   "ui": {
