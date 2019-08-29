@@ -1,11 +1,7 @@
 概要
 ====
 
-KaggleのCompetitions『[Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)』
-
-そこで[最も人気のあるKernel](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)のコードにハイパーパラメータチューニングを施し、scoreを改善した。
-
-score ： 0.99485 (before) ⇒ __0.99571__ (after) 
+AWS上でELF Open Goのパラメータを使用しLizzieを実行する。
 
 ## 各ファイル説明
 
