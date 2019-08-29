@@ -50,3 +50,4 @@ AWS上でELF Open Goのパラメータを使用しLizzieを実行する。
     3.同じくssh.batファイルの#User#にあなたのPCのユーザネームを入力
     
 5. 実行
+    1.「AWS」フォルダ内のLizzie.jarを実行する
