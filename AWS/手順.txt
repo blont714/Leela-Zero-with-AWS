@@ -1,0 +1,10 @@
+①AWSスポットインスタンスのリクエスト
+https://ap-northeast-1.console.aws.amazon.com/ec2sp/v1/spot/home?region=ap-northeast-1
+カスタムAMI(ami-e8a43f05) インスタンスタイプ(p2.xlarge)
+追加設定⇒セキュリティグループでチェックする(aws-sg01)
+フリーリクエストの設定⇒推奨事項の適用のチェック外す⇒p2.xlarge以外を消す
+②AWSインスタンスのパブリックIP(IPv4)を確認
+インスタンスのインスタンスから
+③bat.sshのserver_ipの変更
+Lizzieフォルダ内にあるよ
+④Lizzie.exeの起動
