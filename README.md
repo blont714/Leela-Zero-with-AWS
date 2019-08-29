@@ -49,8 +49,10 @@ AWS上でELF Open Goのパラメータを使用しLizzieを実行する。
     
     2.インスタンスでメモしたIPv4パブリックIP を『AWS』フォルダ内のssh.batファイルの#ip_address#に入力
     
-    3.同じくssh.batファイルの#User#にあなたのPCのユーザネームを入力
-  
+    3.同じくssh.batファイルの#User#にあなたのPCのユーザネームを入力（確認方法は以下）
+    
+    Windowsキー+R ⇒ 「cmd」と入力 ⇒ C:\Users\"PCのユーザネーム">
+    
 ### ⑤実行
 
     1.「AWS」フォルダ内のLizzie.jarを実行する
