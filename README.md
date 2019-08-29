@@ -37,7 +37,7 @@ AWS上でELF Open Goのパラメータを使用しLizzieを実行する。
         
 ### ③ELF Open Goのパラメータ取得
 
-    1.https://zero.sjeng.org/ を開く
+    1.(https://zero.sjeng.org/) を開く
     
     2.ページを少し下にスクロールし、Best Network Hashテーブル最上部（最新）のHashを『AWS』フォルダにダウンロード
     
