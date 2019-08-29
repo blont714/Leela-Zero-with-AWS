@@ -5,7 +5,7 @@ AWS上でELF Open Goのパラメータを使用しLizzieを実行する。
 
 参考：https://aws-guide.memo.wiki/ (*1)
 
-
+※末尾に(*1)がついている行に関しては上記URLを参照
 
 # 手順
 
