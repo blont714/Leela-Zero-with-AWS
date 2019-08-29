@@ -5,9 +5,9 @@ AWS上でELF Open Goのパラメータを使用しLizzieを実行する。
 
 参考：https://aws-guide.memo.wiki/ (*1)
 
-## 手順
+# 手順
 
-1. Lizzie等ツール類ダウンロード
+##Lizzie等ツール類ダウンロード
 
     1.Clone or download
     
@@ -19,7 +19,7 @@ AWS上でELF Open Goのパラメータを使用しLizzieを実行する。
     
     5.デスクトップに『AWS』フォルダを移動する
 ___
-2. AWSアカウント作成～鍵取得
+###AWSアカウント作成～鍵取得
 
     1.『1.Amazon Web Service (AWS) のユーザー登録』(*1)
     
