@@ -5,9 +5,11 @@ AWS上でELF Open Goのパラメータを使用しLizzieを実行する。
 
 参考：https://aws-guide.memo.wiki/ (*1)
 
+
+
 # 手順
 
-##Lizzie等ツール類ダウンロード
+## Lizzie等ツール類ダウンロード
 
     1.Clone or download
     
@@ -18,8 +20,8 @@ AWS上でELF Open Goのパラメータを使用しLizzieを実行する。
     4.フォルダ名を『Leela-Zero-with-AWS-master』から『AWS』に変更する（以降『AWS』フォルダと表記）
     
     5.デスクトップに『AWS』フォルダを移動する
-___
-###AWSアカウント作成～鍵取得
+    
+### AWSアカウント作成～鍵取得
 
     1.『1.Amazon Web Service (AWS) のユーザー登録』(*1)
     
